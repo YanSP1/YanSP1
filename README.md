@@ -14,15 +14,6 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de soluções in
 - 🎯 Especializado em desenvolvimento Full Stack
 - 📧 Entre em contato: **yandasilvapires@gmail.com**
 
-## 💼 Experiência Profissional
-
-### 🏢 Anlix
-**Desenvolvedor** | Rio de Janeiro, RJ
-- Desenvolvimento de aplicações web robustas e escaláveis
-- Trabalho com tecnologias modernas para criar soluções eficientes
-- Foco em qualidade de código e melhores práticas de desenvolvimento
-- Colaboração em equipe para entrega de projetos de alta qualidade
-
 ## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
