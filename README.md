@@ -121,13 +121,6 @@ Acredito que o desenvolvimento profissional é uma jornada contínua. Estou semp
   <img src="https://komarev.com/ghpvc/?username=YanSP1&color=brightgreen&style=flat-square&label=Visualizações+do+Perfil" alt="Profile views" />
 </div>
 
-## 🎮 Além do Código
-
-Quando não estou programando, gosto de:
-- 🎵 Descobrir novas músicas e artistas
-- 📖 Ler sobre tecnologia e inovação
-- 🎮 Jogar e explorar mundos virtuais
-- 🌊 Aproveitar as belezas do Rio de Janeiro
 
 <div align="center">
   
