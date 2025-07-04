@@ -65,10 +65,6 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de soluções in
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 > Uma aplicação de calculadora desenvolvida em Python, demonstrando lógica de programação e interface de usuário.
 
-### 💪 [FitFlex](https://github.com/YanSP1/FitFlex)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-> Página de produtos simples focada em fitness, com design responsivo e moderno.
-
 ### 📚 [JS Lessons](https://github.com/YanSP1/Js-lessons)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 > Repositório dedicado ao aprendizado e prática de JavaScript com exemplos práticos.
@@ -76,25 +72,6 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de soluções in
 ### 🔐 [Login Page](https://github.com/YanSP1/login-page)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 > Sistema de autenticação moderno e responsivo desenvolvido em JavaScript.
-
-### 🏢 [Pilar Code](https://github.com/YanSP1/pilarcode)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-> Site empresarial completo com sistema de login integrado a banco de dados SQL.
-
-### 🌟 [Site Beyond Idea](https://github.com/YanSP1/Site-Beyond-Idea)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-> Site pessoal criado do zero, demonstrando habilidades de design e desenvolvimento front-end.
-
-## 🎯 Objetivos 2025
-
-- [ ] 🚀 Contribuir para projetos open source da comunidade
-- [ ] 📚 Expandir conhecimentos em frameworks modernos (React, Vue.js, Django)
-- [ ] 🏗️ Desenvolver aplicações full-stack mais complexas e escaláveis
-- [ ] ☁️ Melhorar habilidades em DevOps e Cloud Computing (AWS, Docker)
-- [ ] 🤝 Participar de hackathons e eventos de tecnologia
-- [ ] 🎓 Obter certificações técnicas relevantes
-- [ ] 🌟 Mentorear novos desenvolvedores da comunidade
-- [ ] 📱 Explorar desenvolvimento mobile com React Native ou Flutter
 
 ## 📚 Aprendizado Contínuo
 
