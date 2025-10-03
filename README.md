@@ -8,7 +8,6 @@
 
 Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de soluções inovadoras e eficientes. Atualmente trabalho na **Anlix** e moro no **Rio de Janeiro, RJ**. Estou constantemente aprendendo e desenvolvendo projetos que combinam criatividade com funcionalidade.
 
-- 🔭 Atualmente trabalhando em projetos web e aplicações na **Anlix**
 - 🌱 Sempre aprendendo novas tecnologias e ferramentas
 - 💡 Focado em criar soluções que impactem positivamente os usuários
 - 🎯 Especializado em desenvolvimento Full Stack
